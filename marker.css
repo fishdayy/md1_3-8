@@ -1,0 +1,15 @@
+.bang {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.phu, .chinh {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+.hang:nth-child(even) {
+    background-color: #dddddd;
+}
+.left {
+    text-align: left;
