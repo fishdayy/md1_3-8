@@ -12,3 +12,15 @@ background-color: orangered;
     background-color: aqua;
     color: blue;
 }
+.yellow{
+    background-color: yellow;
+}
+.bgorange{
+    background-color: orange;
+}
+.right {
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
